@@ -35,11 +35,6 @@
 	width:100%;
     color: white;
 }
-@media screen and (max-width:400px ){
-	.header{
-		width: 480px;
-	}
-}
 .header a
 {
 	margin-left:20px;
@@ -100,13 +95,6 @@
 		margin-top: -80px;
 	}
 }
-@media screen and (max-width:400px ){
-	#socials{
-		width: 480px;
-        
-        
-	}
-}
 h4 .fa 
 {
      
@@ -136,13 +124,6 @@ h4 .fa
         
 	}
 }
-@media screen and (max-width:400px ){
-	.main{
-		width: 460px;
-        margin-left: 10px;height: 640px;
-        
-	}
-}
 h5
 {
     color: #cccccc;
@@ -150,12 +131,6 @@ h5
     padding: 20px;
     margin-left: 10px;
     
-}
-@media screen and (max-width:400px ){
-	h5{
-		width: 480px;
-        
-	}
 }
 .main img
 {
@@ -168,14 +143,6 @@ h5
 		width: 170px;
         height: 190px;
         margin-left: 10px;
-        
-	}
-}
-@media screen and (max-width:400px ){
-	.main img{
-		width: 170px;
-        height: 190px;
-        margin-left: 0px;
         
 	}
 }
@@ -192,14 +159,6 @@ h5
         
 	}
 }
-@media screen and (max-width:400px ){
-	.heading{
-		
-        margin-left: 180px;
-        margin-top: -200px;
-        
-	}
-}
 .title-story
 {
     margin-top: 50px;
@@ -208,14 +167,6 @@ h5
 	.title-story{
 		width: 450px;
         margin-top: 10px;
-        
-	}
-}
-@media screen and (max-width:400px ){
-	.title-story{
-		width: 430px;
-        margin-top: 10px;
-        height: 
         
 	}
 }
@@ -244,7 +195,7 @@ h5
 	.sub-main{
 		width: 470px;
         margin-left: 10px;
-        height: 200px;
+        height: 300px;
 	}
 }
 .sub-main img
@@ -272,10 +223,9 @@ h5
 }
 @media screen and (max-width:1000px ){
 	.sub-main-heading{
-		width: 220px;
+		width: 300px;
         margin-top: 10px;
-        margin-left: 0px;
-        height: 140px;
+        margin-left: 80px;
         
 	}
 }
@@ -318,14 +268,7 @@ dl
         height: 340px;
 	}
 }
-@media screen and (max-width:400px ){
-	.content{
-		width: 460px;
-        margin-left: 10px;
-        margin-top: 20px;
-        height: 340px;
-	}
-}
+
 .content-last img
 {
     width: 285px;
@@ -336,16 +279,9 @@ dl
 }
 @media screen and (max-width:1000px ){
 	.content-last img{
-		width: 350px;
+		width: 310px;
         height: 200px;
-        margin-left: 10px;
-	}
-}
-@media screen and (max-width:400px ){
-	.content-last img{
-		width: 350px;
-        height: 200px;
-        margin-left: 10px;
+        margin-left: 40px;
 	}
 }
 .content-last
@@ -370,13 +306,7 @@ dl
         height: 460px;
 	}
 }
-@media screen and (max-width:400px ){
-	.content-last{
-		width: 460px;
-        margin-left: 10px;
-        height: 460px;
-	}
-}
+
 /*-----Slider------*/
 #slider
 {
@@ -385,24 +315,12 @@ dl
     color: black;
     margin-top: 100px;
 }
-@media screen and (max-width:400px ){
-    #slider{
-        
-        width: 480px;
-	}
-}
 #slider h1
 {
     margin-top: -50px;
     color: black;
     text-align: center;
     font-family:sans-serif;
-}
-@media screen and (max-width:400px ){
-    .carousel-item{
-        height: 700px;
-        width: 480px;
-	}
 }
 .carousel-caption
 {
@@ -415,14 +333,6 @@ dl
     .carousel-caption{
         margin-left: 185px;
         width: 220px;
-	}
-}
-@media screen and (max-width:400px ){
-    .carousel-caption{
-        margin-left: -65px;
-        margin-top: 90px;
-        width: 465px;
-        height: 340px;
 	}
 }
 .carousel-caption img
@@ -439,14 +349,6 @@ dl
        
 	}
 }
-@media screen and (max-width:400px ){
-    .carousel-caption img{
-        height: 100px;
-        margin-top: 0px;
-        margin-left: 0px;
-       
-	}
-}
 .carousel-caption-text 
 {
 	font-size:14px;
@@ -456,7 +358,6 @@ dl
     margin-top: 20px;
     margin-left: 0px;
 }
-
 .carousel-caption-text ul
 {
     background-color: white;
@@ -468,14 +369,6 @@ dl
 @media screen and (max-width:1000px ){
 	.carousel-caption-text ul{
         width: 200px;
-     
-        
-	}
-}
-@media screen and (max-width:400px ){
-	.carousel-caption-text ul{
-        width: 440px;
-        padding: 10px;
      
         
 	}
@@ -500,13 +393,7 @@ dl
         
 	}
 }
-@media screen and (max-width:400px ){
-	.img-fluid{
-        margin-left: 0px;width: 480px;
-     
-        
-	}
-}
+
 .img-fluid img
 {
     width: 400px;
@@ -519,15 +406,6 @@ dl
 	.img-fluid img{
         margin-left: 0px;
         width: 250px;
-        height: 400px;
-     
-        
-	}
-}
-@media screen and (max-width:400px ){
-	.img-fluid img{
-        margin-left: 0px;
-        width: 480px;
         height: 400px;
      
         
@@ -555,12 +433,6 @@ dl
         margin-top: 90px;
 	}
 }
-@media screen and (max-width:400px ){
-    .carousel-control-prev{
-        height: 80px;
-        margin-top: 90px;
-	}
-}
 .carousel-control-next
 {
    
@@ -574,11 +446,18 @@ dl
         margin-top: 90px;
 	}
 }
-@media screen and (max-width:400px ){
-    .carousel-control-next{
-        margin-right: -140px;
-        margin-top: 110px;
-	}
+/*----------Footer----------*/
+#footer
+{
+    background: #333;
+    color: #fff;
+    padding: 12px;
+    margin-top:50px;
+}
+.fa-heart-o
+{
+    margin: 3px;
+    color: red;
 }
 
 
@@ -607,15 +486,6 @@ dl
         
 	}
 }
-@media screen and (max-width:400px ){
-	.main-article{
-		
-        height: 620px;
-        margin-left: 10px;
-        padding: 10px;
-        
-	}
-}
 .main-article img
 {
     height: 250px;
@@ -631,29 +501,13 @@ dl
 .link
 {
     float:right;
-    margin-top: 40px;
-}
-@media screen and (max-width:1000px ){
-	.link{
-		margin-top: 50px;
-        margin-left: 0px;
-        float: none;
-        
-	}
-}
-@media screen and (max-width:400px ){
-	.link{
-		
-        margin-left: 10px;
-        float: none;
-        
-	}
+    margin-top: -50px;
 }
 .link a
 {
     color: purple;
     margin-left: 10px;
-    font-size: 16px;
+    font-size: 18px;
 }
 .link a:hover
 {
@@ -683,13 +537,6 @@ dl
        
 	}
 }
-@media screen and (max-width:400px ){
-    .locals-box{
-        margin-left: 0px;
-        margin-top: 10px;
-       width: 460px;
-	}
-}
 .locals-box:hover
 {
     background-color: #efefef;
@@ -706,13 +553,6 @@ dl
     border-top-right-radius: 10px;
     border-top-left-radius: 10px;
 }
-@media screen and (max-width:400px ){
-    .locals-box img{
-        width: 460px;
-        height: 300px;
-       
-	}
-}
 .locals-box a
 {
     color: black;
@@ -726,37 +566,10 @@ dl
     font-size: 14px;
 }
 /*----sports------*/
-sports 
+.sports 
 {
-    
+    background-image: url(troubleshoot.png);
     padding: 50px;
-}
-@media screen and (max-width:400px ){
-    .sports{
-        width: 480px;      
-	}
-}
-@media screen and (max-width:400px ){
-    .sports .locals-box{
-        margin-left: 0px;
-        margin-top: 10px;
-       width: 230px;
-	}
-}
-.locals-box:hover
-{
-    background-color: #efefef;
-    border-color: purple;
-    box-shadow: 0 15px 20px purple;
-}
-
-
-@media screen and (max-width:400px ){
-    .sports .locals-box img{
-        width: 230px;
-        height: 220px;
-       
-	}
 }
 /*----------promo----------*/
 #promo
@@ -771,7 +584,9 @@ sports
 @media screen and (max-width:1000px ){
     #promo{
         width: 480px;
-        margin-left: 0px;      
+        margin-left: 0px;
+        
+       
 	}
 }
 .promo
@@ -868,14 +683,9 @@ sports
     .data{
         width: 460px;
         margin-left: 0px;
-        height: 800px;  
-	}
-}
-@media screen and (max-width:400px ){
-    .data{
-        width: 460px;
-        margin-left: -10px;
-        height: 800px;  
+        height: 800px;
+        
+       
 	}
 }
 .data-box
@@ -928,11 +738,7 @@ sports
 }
 
 
-@media screen and (max-width:400px ){
-	#data-content{
-        height: 1800px;
-	}
-}
+
 .data-content
 {
 
@@ -942,7 +748,7 @@ sports
     width: 360px;
     padding: 20px;
     height: 250px;
-    margin-left:605px;
+    margin-left:555px;
     margin-top: -502px;
     color:white;
     text-align: center;
@@ -951,17 +757,9 @@ sports
 @media screen and (max-width:1000px ){
 	.data-content{
 		width: 400px;
-        margin-left: 20px;
-        margin-top: 10px;
-        height: 300px;
-	}
-}
-@media screen and (max-width:400px ){
-	.data-content{
-		width: 400px;
-        margin-left: 20px;
-        margin-top: 10px;
-        height: 300px;
+        margin-left: -15px;
+        margin-top: 120px;
+        height: 200px;
 	}
 }
 .data-content img
@@ -977,13 +775,6 @@ sports
     margin-top: -15px;
     border-top-left-radius: 40px;
 }
-@media screen and (max-width:400px ){
-    .data-content img{
-        width: 260px;
-        height: 200px; 
-        margin-top: 10px;
-	}
-}
 .data-content-last
 {
 
@@ -993,7 +784,7 @@ sports
     width: 360px;
     padding: 20px;
     height: 260px;
-    margin-left: 605px;
+    margin-left: 555px;
     margin-top: 10px;
     color: white;
     text-align: center;
@@ -1002,15 +793,8 @@ sports
 @media screen and (max-width:1000px ){
 	.data-content-last{
 		width: 400px;
-        margin-left: 20px;
+        margin-left: -15px;
         height: 220px;
-	}
-}
-@media screen and (max-width:400px ){
-	.data-content-last{
-		width: 400px;
-        margin-left: 20px;
-        height: 200px;
 	}
 }
 /*-------about-----*/
@@ -1105,42 +889,18 @@ sports
 
 
 /*-------post-------*/
-.datapost
-{
-    width: 600px;
-    border-bottom-right-radius: 40px;
-    border-top-left-radius: 40px;
-    border-style: solid;
-    border-color: black;
-    border-width: thin;
-    height: 530px;
-}
-@media screen and (max-width:1000px ){
-    .datapost{
-        width: 470px;
-        margin-left: -10px;
-        height: 530px;  
-	}
-}
-@media screen and (max-width:400px ){
-    .datapost{
-        width: 470px;
-        margin-left: -10px;
-        height: 530px;  
-	}
-}
+
 .data-ad img
 {
-    height: 230px;
-    width: 320px;
-    margin-left: 270px;
-    margin-top: 5px;
-    
+    height: 280px;
+    width: 270px;
+    margin-left: 250px;
+    margin-top: 10px;
 }
 @media screen and (max-width:1000px ){
 	.data-ad img{
-        width: 205px;
-		margin-left: 260px;
+        width: 220px;
+		margin-left: 185px;
 	}
 }
 .data-post
@@ -1150,31 +910,31 @@ sports
     border-width: thin;
     background: linear-gradient(to top right,#efefef,plum,#efefef);
     color: white;
-    height: 230px;
-    width: 260px;
-    margin-top: -230px;
+    height: 300px;
+    width: 200px;
+    margin-top: -280px;
     padding: 10px;
-    border-top-left-radius: 40px;
-    margin-left: 5px;
 }
 @media screen and (max-width:1000px ){
 	.data-post{
-        margin-left: 5px;
-        width: 250px;
+        margin-left: -20px;
 	}
 }
 .data-post-free
 {
+    border-style: solid;
+    border-color: black;
+    border-width: thick;
     height: 180px;
-    width: 600px;
+    width: 500px;
     margin-top: 30px;
-    margin-left: 10px;
-    
+    margin-left: 20px;
+    background-color: yellow;
 }
 @media screen and (max-width:1000px ){
 	.data-post-free{
-        margin-left: 0px;
-		width: 480px;
+        margin-left: -20px;
+		width: 430px;
 	}
 }
 .data-post-free h1
@@ -1203,46 +963,36 @@ sports
 {
 
     height: 150px;
-    width: 200px;
-    margin-top: -100px;
-    margin-left: 340px;
-}
-@media screen and (max-width:1000px ){
-	.data-post-free img{
-        margin-left: 270px;
-		width: 150px;
-	}
+    width: 100px;
 }
 .data-post-free .fa
 {
     background-color: red;
-    padding: 10px;
+    padding: 10px 50px;
+    border-style: solid;
+    border-color: black;
+    border-width: thick;
     border-radius: 50px;
     margin-top: 30px;
-    margin-left: 10px;
-    font-size: 30px;
+    margin-left: -70px;
+    font-size: 60px;
     color: white;
 }
 @media screen and (max-width:1000px ){
 	.data-post-free .fa{
-        margin-left: 10px;
-		 font-size:20px;
+        margin-left: -30px;
+		 font-size: 40px;
 		margin-top: 50px;
 	}
 }
 .data-post-free p
 {
    margin-left: 0px;
-    margin-top: 10px;
+    margin-top: -120px;
     color: red;
-    font-size: 22px;
-    font-weight: bold;
+    font-size: 20px;
 }
-@media screen and (max-width:1000px ){
-	.data-post-free p{
-        font-size: 20px;
-	}
-}
+
 .data-content-post
 {
 
@@ -1255,23 +1005,21 @@ sports
     margin-left:620px;
     margin-top: -522px;
     color:white;
-    text-align: ;
+    text-align: center;
     background: linear-gradient(to top right,#efefef,plum,#efefef);
 }
 @media screen and (max-width:1000px ){
 	.data-content-post{
 		width: 400px;
-        margin-left: 20px;
-        margin-top: 20px;
-        height: 220px;
+        margin-left: 40px;
+        margin-top: 120px;
+        height: 200px;
 	}
 }
 .data-content-post img
 {
-    width: 200px;
-    height: 140px;
-    margin-left: 130px;
-    margin-top: -50px;
+    width: 300px;
+    height: 200px;
 }
 @media screen and (max-width:1000px ){
 	.data-content-post img{
@@ -1285,10 +1033,6 @@ sports
     margin-left: -15px;
     margin-top: -15px;
     border-top-left-radius: 40px;
-}
-.note
-{
-    margin-top: -80px;
 }
 .data-content-last-post
 {
@@ -1308,7 +1052,7 @@ sports
 @media screen and (max-width:1000px ){
 	.data-content-last-post{
 		width: 400px;
-        margin-left: 20px;
+        margin-left: 40px;
         height: 220px;
 	}
 }
@@ -1432,7 +1176,7 @@ sports
 	.data-content-post2{
 		width: 400px;
         margin-left: 40px;
-        margin-top: -810px;
+        margin-top: 120px;
         height: 200px;
 	}
 }
@@ -1569,7 +1313,7 @@ sports
     .data-post3-free {
         margin-left: 50px;
         width: 400px;
-		margin-top: -1000px;
+		margin-top: -210px;
        
 	}
 }
@@ -1602,30 +1346,4 @@ sports
     font-size: 14px;
     background-color: blue; 
     color: white;
-}
-
-
-
-/*----------Footer----------*/
-#footer
-{
-    background: #333;
-    color: #fff;
-    padding: 12px;
-    margin-top:50px;
-}
-.fa-heart-o
-{
-    margin: 3px;
-    color: red;
-}
-@media screen and (max-width:1000px ){
-    #footer{
-        width: 480px;  
-	}
-}
-@media screen and (max-width:400px ){
-    #footer{
-        width: 480px;  
-	}
 }
